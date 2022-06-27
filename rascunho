@@ -1,0 +1,4 @@
+def primeiraFunc(nome):
+    print('Hello %s' %(nome))
+
+primeiraFunc('Aluno')
